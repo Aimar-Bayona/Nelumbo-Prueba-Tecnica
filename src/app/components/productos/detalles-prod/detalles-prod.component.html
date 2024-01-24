@@ -1,0 +1,122 @@
+<div class="detalles-container">
+    <header class="migas">
+        <a class="btn" routerLink="/">Volver a resultados</a>
+        <p>{{ producto.categoria }}/{{ producto.marca }}/<strong>{{ producto.nombre }}</strong></p>
+    </header>
+
+    <section class="principal">
+        <div class="imagenes">
+            <div class="lista-imagenes">
+                <div *ngFor="let imagen of producto.imagen" class="item-imagen">
+                    <img src="{{imagen}}">
+                </div>
+            </div>
+            <div class="imagen-focus">
+                <img src="{{producto.imagen[0]}}" alt="">
+                <i class="fa-regular fa-heart corazon"></i>
+            </div>
+        </div>
+
+        <section class="detalles">
+            <div class="detalles-generales">
+                <div>
+                    <div><h3 class="nombre">{{ producto.nombre }} 13-2MP 64G, 4GB RAM</h3></div>
+                    <ng-container *ngFor="let star of [1, 2, 3, 4, 5]" class="estrellas">
+                        <i class="fa-solid fa-star" *ngIf="star <= producto.estrellas ; else emptyStar"></i>
+                        <ng-template #emptyStar><i class="fa-regular fa-star"></i></ng-template>
+                    </ng-container>
+                </div>
+                <div class="pago">
+                        <p class="oferta">{{ producto.precioOferta }}</p>
+                        <p class="normal">{{ producto.precioNormal }}</p>
+                        <ul>
+                            <li><i class="fa-brands fa-cc-mastercard"></i></li>
+                            <li><i class="fa-brands fa-cc-visa"></i></li>
+                            <li><i class="fa-brands fa-cc-mastercard"></i></li>
+                            <li><i class="fa-brands fa-cc-visa"></i></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="descripcion">
+                <span>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam suscipit eaque nulla! Ea molestiae, suscipit dolorum fugit inventore nesciunt adipisci assumenda debitis deserunt voluptatum explicabo quasi, eius accusamus sed....
+                </span>
+                <p><em>- Vér más -</em></p>
+            </div>
+            
+            <div class="compra-segura">
+                <span class="material-symbols-outlined">shield</span>
+                <span class="texto-seguro"><strong>Compra segura con Macropay Protect</strong>
+                <p>Devolución gratis (30 días)/12 meses de garantía de fábrica.</p></span>
+            </div>
+
+            <div class="vence">
+                <p>La promoción vence en <time datetime>24d 12h:43m</time></p>
+            </div>
+
+            <div class="ofertas-compra">
+                <img src="../../../../assets/pictures/oferta.png" alt="">
+            </div>
+        </section>
+    </section>
+
+    <article>
+        <h5>Información Detallada del Producto</h5>
+        <div class="informacion-producto">
+            <div class="imagenes">
+                <div class="lista-imagenes">
+                    <div *ngFor="let imagen of producto.imagen" class="item-imagen">
+                        <img src="{{imagen}}">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="enganche">
+                <div class="especificaciones">
+                    <header>
+                        <p class="otras">Otras Especificaciones</p>
+                        <p>Reviews (3)</p>
+                    </header>
+                    <div class="detalles">
+                        <div *ngFor="let detalle of producto.detalles" class="detalles-item">
+                        <p class="otras">{{ detalle.clave }}</p>
+                        <p>{{ detalle.valor }}</p>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="fondo">
+                    <div class="imagen">
+                        <img src="../../../../assets/pictures/enganche.png" alt="">
+                    </div>
+                    <div class="porcentaje-enganche">
+                        <div class="cara">
+                            <img src="../../../../assets/pictures/cara.png" alt="">
+                        </div>
+                        <div class="contenido">
+                            <h5>¿Te falta una lanita?</h5>
+                            <p>ENGANCHE ${{ (520.00 + (520.00 * porcentajeBarra) / 100).toFixed(2) }}</p>
+                            <p>PAGO SEMANAL ${{ (125.00 + (125.00 * porcentajeBarra) / 100).toFixed(2) }}</p>
+                        </div>
+                        <div class="barra">
+                            <input type="range" min="0" max="100" class="desplazar" [(ngModel)]="porcentajeBarra">
+                            <span class="desplazar-valor">{{ porcentajeBarra }}%</span>
+                            <p>Enganche</p>
+                        </div>                                    
+                        <div class="compra">
+                            <button type="button" class="btn"  (mouseenter)="texto = true" (mouseleave)="texto = false">{{ texto ? 'Comprar a Crédito' : 'Aplica ahora' }}</button>
+                            <p>*Hasta $2,000 de manera fácil, rápida y confiable</p>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <section class="relacionados">
+        <h5>Productos Relacionados</h5>
+        <div class="productos">
+            <app-producto [productos]="productosFiltrados"></app-producto>
+        </div>
+    </section>
+</div>

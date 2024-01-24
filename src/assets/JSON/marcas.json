@@ -1,0 +1,27 @@
+{
+  "celulares": [
+    { "label": "Apple", "value": "apple" },
+    { "label": "Samsung", "value": "samsung" },
+    { "label": "Huawei", "value": "huawei" },
+    { "label": "Xiaomi", "value": "xiaomi" },
+    { "label": "OPPp", "value": "oppp" },
+    { "label": "Sony", "value": "sony" },
+    { "label": "OnePlus", "value": "oneplus" },
+    { "label": "Google", "value": "google" },
+    { "label": "TCL", "value": "tcl" },
+    { "label": "Alcatel", "value": "alcatel" },
+    { "label": "Nokia", "value": "nokia" },
+    { "label": "Motorola", "value": "motorola" },
+    { "label": "Realme", "value": "realme" },
+    { "label": "Honor", "value": "honor" },
+    { "label": "CAT", "value": "cat" },
+    { "label": "ZTE", "value": "zte" },
+    { "label": "Vivo", "value": "vivo" },
+    { "label": "Blackview", "value": "blackview" }
+  ],
+  "motocicletas": [
+    { "label": "Harley Davidson", "value": "harleydavidson" },
+    { "label": "Kawasaki", "value": "kawasaki" },
+    { "label": "Ducati", "value": "ducati" }
+  ]
+}

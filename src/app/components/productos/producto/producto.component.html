@@ -1,0 +1,36 @@
+<div class="productos row">
+    <ng-container *ngFor="let producto of productos" >
+        <div class="producto" *ngIf="producto.categoria == categoria">
+            <img src="{{ producto.imagen[0] }}" alt="" class="imagen">
+            <img src="{{ producto.imagen[1] }}" alt="" class="imagen img2" [routerLink]="['/detalles/', producto.id]">
+            <i class="fa-regular fa-heart corazon"></i>
+
+            <div class="contenido">
+                <div>
+                    <h3 class="nombre" [routerLink]="['/detalles/', producto.id]">{{ producto.nombre }}</h3>
+                    <ng-container *ngFor="let star of [1, 2, 3, 4, 5]" class="estrellas">
+                        <i class="fa-solid fa-star" *ngIf="star <= producto.estrellas ; else emptyStar"></i>
+                        <ng-template #emptyStar><i class="fa-regular fa-star"></i></ng-template>
+                    </ng-container>
+                    <div class="pago">
+                        <p>{{ producto.precioSemana }}</p>
+                        <p>{{ producto.precioMes }}</p>
+                    </div>
+                </div>
+            
+                <div>
+                    <div class="oferta">{{ producto.precioOferta }}</div>
+                    <div class="normal">{{ producto.precioNormal }}</div>
+                    
+                    <button class="btn quiero" (click)="abrirModal()">Lo Quiero</button>
+                </div>
+            </div>
+        </div>
+    </ng-container>
+</div>
+
+<div *ngIf="mostrarModal" class="modal-overlay">
+    <div class="modal-content" (click)="cerrarModal()">
+      <app-modal-prod></app-modal-prod>
+    </div>
+  </div>

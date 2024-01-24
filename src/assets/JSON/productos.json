@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "categoria": "celulares",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_695705-MLA48697032624_122021-O.webp",
+      "https://m.media-amazon.com/images/I/81t8kQP6OQL.jpg",
+      "https://cellphonewarehousebw.com/1001-large_default/samsung-galaxy-a12-128gb.jpg",
+      "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/0a70a747-093e-4d79-88e8-e11a3c0ffe1a.f0b76a0c3e8d6585f1299bbb4d7e4fbd.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    ],
+    "nombre": "Samsung Galaxy A12",
+    "marca": "Samsung",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "celulares",
+    "imagen": [
+      "https://tiendasishop.com/media/catalog/product/i/p/iphone_14_purple_pdp_image_position-1a_laes.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+      "https://www.bloomberglinea.com/resizer/eIGeH2KtK-dM2Wf8feRYf7-TC8Q=/600x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/4JDSGY4MFFEJFBX75JRXHYZOZU.jpg",
+      "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-blue-220907-geo_inline.jpg.large.jpg",
+      "https://www.apple.com/newsroom/images/product/iphone/lifestyle/Apple-iPhone-14-iPhone-14-Plus-yellow-2up-230307.jpg.news_app_ed.jpg"
+    ],
+    "nombre": "iPhone 14 Plus",
+    "marca": "Apple",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "celulares",
+    "imagen": [
+      "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-8/iphone-8-gold.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_783736-MCO32417130467_102019-O.webp",
+      "https://www.apple.com/newsroom/images/product/iphone/standard/8plus_and_8_glass_back_big.jpg.large.jpg",
+      "https://www.apple.com/newsroom/images/product/iphone/standard/facing_water_resistant_screens_inline.jpg.large.jpg"
+    ],
+    "nombre": "iPhone 8 Plus",
+    "marca": "Apple",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "celulares",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_607001-MLU71541490170_092023-O.webp",
+      "https://falabella.scene7.com/is/image/FalabellaCO/61897835_4?wid=800&hei=800&qlt=70",
+      "https://saldos.clevercel.co/cdn/shop/files/samsung-galaxy-s23-5g-1.jpg?v=1696602450",
+      "https://falabella.scene7.com/is/image/FalabellaCO/gsc_125038601_4157141_1?wid=800&hei=800&qlt=70"
+    ],
+    "nombre": "Samsung S23",
+    "marca": "Samsung",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 5,
+    "categoria": "celulares",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_679501-MCO43285710405_082020-O.webp",
+      "https://www.aipedigital.com/wp-content/uploads/2020/11/huawei-p40-lite-8gb-128gb-dual-sim-without-8bdg8g.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_896445-MLA48269133143_112021-O.webp",
+      "https://celulibre.com/col/467-home_default/huawei-p40-lite-4g-de-128-gb.jpg"
+    ],
+    "nombre": "Huawei P40 Lite",
+    "marca": "Huawei",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 6,
+    "categoria": "celulares",
+    "imagen": [
+      "https://m.media-amazon.com/images/I/61pwpYcjYlL._AC_SL1000_.jpg",
+      "https://tecphonesas.com/wp-content/uploads/2020/10/Samsung-Galaxy-A51-2.jpg",
+      "https://jefepanda.com/cdn/shop/products/167699-1200-auto_800x.jpg?v=1588795313",
+      "https://jefepanda.com/cdn/shop/products/167699-1200-auto_800x.jpg?v=1588795313"
+    ],
+    "nombre": "Samsung A51",
+    "marca": "Samsung",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 7,
+    "categoria": "celulares",
+    "imagen": [
+      "https://tiendasishop.com/media/catalog/product/i/p/iphone15_pink_pdp_image_position-1__coes.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+      "https://tiendasishop.com/media/catalog/product/i/p/iphone15_plus_black_pdp_image_position-1__coes_2.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+      "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-geo-230912_inline.jpg.large.jpg",
+      "https://imageio.forbes.com/specials-images/imageserve/64e74ad803781abed13b0612/Apple--iPhone--iPhone-15--iPhone-15-Pro--iPhone-15-Pro-Max--iPhone-15-release--new/0x0.jpg?format=jpg&crop=1275,956,x113,y0,safe&width=960"
+    ],
+    "nombre": "iPhone 15 Pro",
+    "marca": "Apple",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 8,
+    "categoria": "celulares",
+    "imagen": [
+      "https://pazcompany.com/131-thickbox_default/huawei-y9-prime-64-gb.jpg",
+      "https://i.linio.com/p/7b6cd29d230794af4227598d78a3d7b3-product.jpg",
+      "https://www.cx-center.com/public/files/2022/03/Huawei%20Y9%201.jpg",
+      "https://celulibre.com/col/1019-home_default/huawei-y9-a-de-128-gb.jpg"
+    ],
+    "nombre": "Huawei Y9 Prime",
+    "marca": "Huawei",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 9,
+    "categoria": "celulares",
+    "imagen": [
+      "https://co.celulares.com/fotos/huawei-nova-7i-85527-m.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_974007-MLA54850509748_042023-O.webp",
+      "https://cdn-files.kimovil.com/default/0003/85/thumb_284377_default_big.jpeg",
+      "https://imei24.com/img/huawei/15_07_09_Huawei_nova_7i_2.jpg"
+    ],
+    "nombre": "Huawei Nova 7i",
+    "marca": "Huawei",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 10,
+    "categoria": "celulares",
+    "imagen": [
+      "https://emod-assets-409443390791.s3.amazonaws.com/img/products/Samsung_Galaxy_Note_/17020655231.jpg",
+      "https://m.media-amazon.com/images/I/61AO4aJIvZL.jpg",
+      "https://exitocol.vteximg.com.br/arquivos/ids/1277212/Celular-Samsung-Galaxy-Note-9-128gb-6gb-Violeta-1336341_a.jpg",
+      "https://bogota.solutekla.com/photo/1/samsung/celulares/galaxy_note_9_azul/galaxy_note_9_azul_0001"
+    ],
+    "nombre": "Samsung Galaxy Note 9",
+    "marca": "Samsung",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 11,
+    "categoria": "celulares",
+    "imagen": [
+      "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-x/iphone-x-silver-back.jpg",
+      "https://micelu.co/wp-content/uploads/2022/12/IPHONE-X-NEGRO.jpg",
+      "https://static.fnac-static.com/multimedia/Images/ES/NR/4c/45/15/1393996/1540-1/tsp20170915120216/Apple-iPhone-X-64GB-Plata.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3iVAQ55hHyeI5K6P5GOFrju-aCrOfmZkJhyWP-eVmNHSf7NldcvxYqCXGOuuqNwlLDQ&usqp=CAU"
+    ],
+    "nombre": "iPhone X Pro",
+    "marca": "Apple",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 12,
+    "categoria": "celulares",
+    "imagen": [
+      "https://pazcompany.com/131-thickbox_default/huawei-y9-prime-64-gb.jpg",
+      "https://i.linio.com/p/7b6cd29d230794af4227598d78a3d7b3-product.jpg",
+      "https://www.cx-center.com/public/files/2022/03/Huawei%20Y9%201.jpg",
+      "https://celulibre.com/col/1019-home_default/huawei-y9-a-de-128-gb.jpg"
+    ],
+    "nombre": "Huawei Y9 Prime",
+    "marca": "Huawei",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 13,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_968884-MCO31497399842_072019-O.webp",
+      "https://i.ebayimg.com/images/g/NTcAAOSwho1ar82K/s-l400.jpg",
+      "https://cdnx.jumpseller.com/tienda-kosiaka/image/6182335/resize/480/480?1704406160",
+      "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2014/10/359333-kawasaki-ninja-h2r-presenta-300-cv-turbo.jpg?tf=3840x"
+    ],
+    "nombre": "Kawasaki Ninja H2R",
+    "marca": "Kawasaki",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 14,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://web2.fireboldweb.com/wp-content/uploads/2023/07/130720231689254723z1000-r-gris-verde-2023-foto3.jpg",
+      "https://movilidadco.vteximg.com.br/arquivos/ids/246946/Kawasaki-z1000-2022-0320220721213557.jpg?v=637940361574200000",
+      "https://mecanicaymotores.com/wp-content/uploads/2022/12/kawasaki-z-1000-800x533.jpg",
+      "https://acdn.mitiendanube.com/stores/893/156/products/miniatura-de-moto-kawasaki-z1000-verde-1-18-welly1-7019947ee36d57c70316029947445497-1024-1024.jpg"
+    ],
+    "nombre": "Kawasaki Z 1000",
+    "marca": "Kawasaki",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 15,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://motos-b60.kxcdn.com/sites/default/files/harley-davidson-iron-883.jpg",
+      "https://d2bywgumb0o70j.cloudfront.net/2019/08/22/ba64b555b41e9b578295e4866b4353af_0fb2e4d633274d2b.jpg",
+      "https://motos-b60.kxcdn.com/sites/default/files/harley-davidson-iron-883.jpg",
+      "https://d2bywgumb0o70j.cloudfront.net/2019/08/22/ba64b555b41e9b578295e4866b4353af_0fb2e4d633274d2b.jpg"
+    ],
+    "nombre": "Harley Davidson Iron 883",
+    "marca": "Harley Davidson",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 16,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://all2bikes.com/cdn/shop/products/Ducati_Hypermotard-950_S1-MattBlack_3-4Posteriore-m_m_y-Ducati-Hypermotard-950-2022_grande.jpg?v=1647284928",
+      "https://all2bikes.com/cdn/shop/products/Ducati_Hypermotard_950_CRT-M2_3-4PosterioreSX.jpg?v=1647283233",
+      "https://all2bikes.com/cdn/shop/products/Ducati_Hypermotard-950_S1-MattBlack_3-4Posteriore-m_m_y-Ducati-Hypermotard-950-2022_grande.jpg?v=1647284928",
+      "https://all2bikes.com/cdn/shop/products/Ducati_Hypermotard_950_CRT-M2_3-4PosterioreSX.jpg?v=1647283233"    ],
+    "nombre": "Ducati Hypermotad",
+    "marca": "Ducati",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 17,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://http2.mlstatic.com/D_NQ_NP_905506-MCO44691024894_012021-O.webp",
+      "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/867519228d1d5325856fc61d710ded0e.jpg?fit=650%2C365&ssl=1",
+      "https://http2.mlstatic.com/D_NQ_NP_905506-MCO44691024894_012021-O.webp",
+      "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/867519228d1d5325856fc61d710ded0e.jpg?fit=650%2C365&ssl=1"
+    ],
+    "nombre": "Ducati Diavel",
+    "marca": "Ducati",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 18,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://imgx.gridoto.com/crop/0x0:0x0/700x465/photo/gridoto/otomotif/embed/1503557989_kawasaki-z250-2017.jpg",
+      "https://imgcdn.oto.com/medium/gallery/color/88/1117/kawasaki-z250-color-378252.jpg",
+      "https://awsimages.detik.net.id/community/media/visual/2018/12/05/b7d7b65a-bb71-40d6-a08a-9123a4bb7db6.jpeg?w=600&q=90",
+      "https://s.yimg.com/ny/api/res/1.2/UFM0zgfKFjuqoLbLaqHv9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/zh-TW/webike__154/3b75421e59e0e740bc1d6b2cd2a8eab2"
+    ],
+    "nombre": "Kawasaki Z 250",
+    "marca": "Kawasaki",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 19,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://www.mundodeportivo.com/files/article_gallery_microformat/uploads/2021/10/10/65550887c68ac.jpeg",
+      "https://www.mundodeportivo.com/files/article_gallery_microformat/uploads/2021/10/10/65550888af245.jpeg",
+      "https://www.mundodeportivo.com/files/article_gallery_microformat/uploads/2021/10/10/65550887c68ac.jpeg",
+      "https://www.mundodeportivo.com/files/article_gallery_microformat/uploads/2021/10/10/65550888af245.jpeg",
+      "https://www.apple.com/newsroom/imagesmages/imageserve/64e74ad803781abed13b0612/Apple--iPhone--iPhone-15--iPhone-15-Pro--iPhone-15-Pro-Max--iPhone-15-release--new/0x0.jpg?format=jpg&crop=1275,956,x113,y0,safe&width=960"
+    ],
+    "nombre": "Harley Davidson V-Rod",
+    "marca": "Harley Davidson",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 20,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://all2bikes.com/cdn/shop/products/Ducati_Streetfighter-V4_my2020_CRT-Carbonio-SlipOn-Decat-Basso_Lato.jpg?v=1647272592",
+      "https://www.motofichas.com/images/cache/001-ducati-streetfighter-v2-2022-estudio-rojo-398-a-mobile.jpg",
+      "https://all2bikes.com/cdn/shop/products/Ducati_Streetfighter-V4_my2020_CRT-Carbonio-SlipOn-Decat-Basso_Lato.jpg?v=1647272592",
+      "https://www.motofichas.com/images/cache/001-ducati-streetfighter-v2-2022-estudio-rojo-398-a-mobile.jpg"
+    ],
+    "nombre": "Ducati StretFigther",
+    "marca": "Ducati",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 21,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://img.lalr.co/cms/2015/07/16233102/kawasaki0717-1000.jpg?size=sm&ratio=sq&f=jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_775799-CBT46425522129_062021-O.webp",
+      "https://www.mundomotero.com/wp-content/uploads/2022/10/kawasaki-h2r-2023.jpg",
+      "https://p.turbosquid.com/ts-thumb/4y/fAZEKr/4YMXoYs3/signature2/png/1547399894/600x600/fit_q87/d5a212ad5577bdd1a7a9a2831f0b10750933f30c/signature2.jpg"
+    ],
+    "nombre": "Kawasaki Ninja H2",
+    "marca": "Kawasaki",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 22,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://movilidadco.vteximg.com.br/arquivos/ids/456710/Sportster-S-Blanca-202220230112223358.jpg?v=638158956702500000",
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2024/2024-sportster-s/2024-sportster-s-m10b/360/2024-sportster-s-m10b-motorcycle-02.jpg?impolicy=myresize&rw=1600",
+      "https://motos-b60.kxcdn.com/sites/default/files/harley-davidson-sportster-s-2021.jpg",
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2022/2022-sportster-s/2022-sportster-s-f59/360/2022-sportster-s-f59-motorcycle-15.jpg?impolicy=myresize&rw=1600"
+    ],
+    "nombre": "Harley Davidson Sportser",
+    "marca": "Harley Davidson",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 23,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://www.ducaticolombia.co/wp-content/uploads/2022/09/Monster-937-Veicolo-03-Editorial-Wide-1330x768-1.jpg",
+      "https://images.ctfassets.net/x7j9qwvpvr5s/k42k5FMV1Y9LixlTuK6YG/bfe5555afcd0368c1166adbb89921c5f/Monster-900-Editorial-Wide-1330x768.jpg",
+      "https://www.ducaticolombia.co/wp-content/uploads/2022/09/Monster-937-Veicolo-03-Editorial-Wide-1330x768-1.jpg",
+      "https://images.ctfassets.net/x7j9qwvpvr5s/k42k5FMV1Y9LixlTuK6YG/bfe5555afcd0368c1166adbb89921c5f/Monster-900-Editorial-Wide-1330x768.jpg"
+    ],
+    "nombre": "Ducati Monster 900",
+    "marca": "Ducati",
+    "estrellas": 3,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  },
+  {
+    "id": 24,
+    "categoria": "motocicletas",
+    "imagen": [
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2024/2024-fat-boy-114/2024-fat-boy-114-m04/360/2024-fat-boy-114-m04-motorcycle-08.jpg?impolicy=myresize&rw=1600",
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2022/2022-fat-boy-114/2022-fat-boy-114-f65/360/2022-fat-boy-114-f65-motorcycle-01.jpg?impolicy=myresize&rw=1600",
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2024/2024-fat-boy-114/2024-fat-boy-114-m04/360/2024-fat-boy-114-m04-motorcycle-08.jpg?impolicy=myresize&rw=1600",
+      "https://www.harley-davidson.com/content/dam/h-d/images/product-images/bikes/motorcycle/2022/2022-fat-boy-114/2022-fat-boy-114-f65/360/2022-fat-boy-114-f65-motorcycle-01.jpg?impolicy=myresize&rw=1600"
+    ],
+    "nombre": "Harley Davidson Fat Boy",
+    "marca": "Harley Davidson",
+    "estrellas": 4,
+    "precioSemana": "$120 p/semana",
+    "precioMes": "$520 p/mes",
+    "precioOferta": "$3.499",
+    "precioNormal": "$4.100",
+    "detalles": [
+      { "clave": "Fabricante", "valor": "Sample" },
+      { "clave": "Peso del producto", "valor": "50 gr" },
+      { "clave": "Dimensiones", "valor": "11 x 10 * 0.4 pulgadas" },
+      { "clave": "País de Origen", "valor": "China" },
+      { "clave": "Número de modelo", "valor": "134687" },
+      { "clave": "Color", "valor": "Plata" },
+      { "clave": "Material", "valor": "Sllicona plástico" },
+      { "clave": "Cantidad de piezas", "valor": 4 },
+      { "clave": "Características especiales", "valor": "Resistente al agua" },
+      { "clave": "Componentes incluidos", "valor": "Audifonos, Cargador y Manual de usuario" }
+    ]
+  }
+]

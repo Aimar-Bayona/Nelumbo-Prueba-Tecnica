@@ -1,0 +1,255 @@
+.contenido {
+  background-color: #ebeff4;
+  padding-bottom: 150px;
+
+  .lista-productos-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+
+    aside {
+      width: 25%;
+
+      .filtro {
+        width: 100%;
+        margin: 15px 0;
+
+        input {
+          padding: 4px 6px;
+          width: 40%;
+          background-color: transparent;
+        }
+
+        select {
+          padding: 5px;
+          width: 60%;
+          background-color: transparent;
+          border-radius: 0;
+          text-align: center;
+          color: #000000aa;
+          font-weight: bold;
+        }
+      }
+
+      .filtro-aside {
+        width: 100%;
+        background-color: #fff;
+
+        .listado {
+          margin-bottom: 20px;
+
+          h4 {
+            padding-left: 20px;
+            padding-top: 20px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #0446b3;
+            font-weight: bold;
+          }
+
+          .marcas {
+            height: 185px;
+            overflow-y: auto;
+            padding: 0 30px;
+
+            label {
+              display: block;
+              font-size: 14px;
+              color: #666;
+            }
+
+            select {
+              width: 100%;
+              padding: 8px;
+              border: 1px solid #ddd;
+              border-radius: 5px;
+              font-size: 14px;
+              color: #333;
+            }
+
+            .marca {
+              display: flex;
+              align-items: center;
+              margin-bottom: 8px;
+
+              input {
+                margin-right: 8px;
+              }
+
+              label {
+                font-size: 14px;
+                color: #555;
+              }
+            }
+          }
+
+          .section {
+            width: 100%;
+            border-top: 1px solid #ccc;
+            padding-bottom: 10px;
+
+            .precio {
+              width: 100%;
+              padding: 10px 20px;
+              display: flex;
+              justify-content: space-between;
+
+              input {
+                width: 45%;
+                border: 1px solid #ccc;
+                border-radius: 3px;
+                padding: 5px 10px;
+              }
+
+              p {
+                color: #ccc;
+                margin: 5px 0;
+              }
+            }
+
+            .reviews {
+              padding: 0 20px;
+
+              i {
+                color: #ffd300;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    main {
+      width: 75%;
+
+      .barra-busqueda {
+        width: 47%;
+        display: flex;
+        align-items: center;
+        margin: 15px 20px;
+        position: relative;
+
+        i {
+          position: absolute;
+          left: 0px;
+          font-size: 14px;
+          padding: 10px;
+          margin-right: 10px;
+          color: #7d879c;
+        }
+
+        input {
+          flex: 1;
+          padding: 8px 30px;
+          border: 1px solid #ddd;
+          border-radius: 50px;
+          font-size: 14px;
+          color: #333;
+          font-size: 12px;
+
+          &::placeholder {
+            color: #7d879c;
+          }
+        }
+
+        select {
+          position: absolute;
+          right: 0px;
+          margin-left: 10px;
+          padding: 8px 10px;
+          border-radius: 5px;
+          font-size: 12px;
+          background-color: #7d879c;
+          border: 1px solid #7d879c;
+          color: #ccc;
+          border-radius: 0 50px 50px 0;
+        }
+      }
+
+      .lista-productos {
+        overflow-y: auto;
+        height: 110vh;
+        overflow-x: hidden;
+        scrollbar-color: transparent transparent;
+      }
+    }
+  }
+
+  .ofertas {
+    padding: 30px 60px;
+
+    .carrusel {
+      width: 100%;
+      height: 440px;
+      position: relative;
+      cursor: pointer;
+
+      img {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        object-fit: cover;
+      }
+
+      .back,
+      .next {
+        background-color: #fff;
+        border-radius: 50%;
+        position: absolute;
+        height: 50px;
+        width: 50px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .back {
+        left: -25px;
+      }
+
+      .next {
+        right: -25px;
+      }
+
+      i {
+        font-size: 30px;
+        color: #bbb;
+      }
+    }
+
+    .indicadores {
+      bottom: 15px;
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      gap: 5px;
+
+      .indicador {
+        cursor: pointer;
+        color: #555;
+        font-size: 25px;
+      }
+    }
+  }
+
+  .ofertas,
+  .mas-vendidos {
+    header {
+      text-align: center;
+
+      h5 {
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+    }
+  }
+
+  .mas-vendidos {
+    padding: 10px 60px;
+    height: 100vh;
+
+    .productos {
+      height: 480px;
+      overflow: hidden;
+    }
+  }
+}

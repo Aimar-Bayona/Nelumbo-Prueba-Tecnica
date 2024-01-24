@@ -1,0 +1,21 @@
+<div class="navbar navbar-expand-lg header">
+    <a href="#" class="navbar-brand mt-1 mx-5">
+        <img src="https://www.intranet.macropay.com.mx/assets/home-tema/img/Logos/Blancos/Logo%20GM_Blanco.png" alt="logo">
+    </a>
+    <div class="ms-auto mx-5">
+        <button class="btn me-3">Crea Tu Cuenta</button>
+        <a href="#" class="btn btn-link me-3">Iniciar sesión</a>
+        <span class="material-symbols-outlined">shopping_cart</span>
+    </div>
+    
+</div>
+
+<div class="navbar opciones">
+    <ul class="nav mx-5">
+        <li *ngFor="let item of menuItems" class="nav-item" [class.focus]="item.activo" (click)="itemSeleccionado(item)">{{ item.label }}</li>
+    </ul>
+</div>
+
+<div class="oferta">
+    <span>COMPRA A <br><p>CRÉDITO</p></span>
+</div>

@@ -1,0 +1,87 @@
+<div class="contenido">
+    <div class="lista-productos-container">
+        <aside>    
+            <div class="filtro">
+                <input type="text" placeholder="Ordenar Por">
+                <select id="orden">
+                    <option *ngFor="let opcion of opciones" [value]="opcion.value">{{ opcion.label }}</option>
+                </select>
+            </div>
+            <div class="filtro-aside">
+                <div class="listado">
+                    <h4>Marcas</h4>
+                    <div class="marcas">    
+                        <div *ngFor="let marca of marcas" class="marca">
+                            <input type="checkbox" [id]="marca.value" [name]="marca.value" (change)="marcaSeleccionada(marca.label)">
+                        <label [for]="marca.value">{{ marca.label }}</label>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <h4>Precio</h4>
+                        <div class="precio">
+                            <input type="text" placeholder="100">
+                            <p> - </p>
+                            <input type="text" placeholder="5,000">
+                        </div>
+                    </div>
+                    <div class="section">
+                        <h4>Reviews</h4>
+                        <div class="reviews">
+                            <ng-container *ngFor="let star of [1, 2, 3, 4, 5]">
+                                <i class="fa-solid fa-star" *ngIf="star <= 4; else emptyStar"></i>
+                                <ng-template #emptyStar><i class="fa-regular fa-star"></i></ng-template>
+                            </ng-container>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <h4>Memoria</h4>
+                    </div>
+                    <div class="section">
+                        <h4>Rango</h4>
+                    </div>
+                    <div class="section">
+                        <h4>Cámara</h4>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main>
+            <div class="barra-busqueda">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" placeholder="Encuentra el producto que necesitas">
+                <select>
+                    <option *ngFor="let categoria of categorias" [value]="categoria.value">{{ categoria.label }}</option>
+                </select>
+            </div>
+            <div class="lista-productos">
+                <app-producto [productos]="productosFiltrados"></app-producto>
+            </div>
+        </main>
+    </div>
+    
+    <section class="ofertas">
+        <header>
+            <h5>Ofertas y Promociones</h5>
+        </header>
+        <div class="carrusel">
+            <img src="https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/292683036_522946976292781_8361558919596254350_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeHmimDPAUHHvcQkyPbS30r256g6DRR7UN3nqDoNFHtQ3bcae6TGI9DXrZOKBwxo7VjALMLaAp3djbq808sNFtlt&_nc_ohc=MkiJFfT5i3wAX_9h2kz&_nc_ht=scontent.feoh2-1.fna&oh=00_AfC-TrXqB8SnsgBFe6GaVJqDaNfmWafjratpfWSAu3J5Ww&oe=65B2EB88" alt="">
+            <button class="btn back"><i class="fa-solid fa-arrow-left"></i></button>
+            <button class="btn next"><i class="fa-solid fa-arrow-right"></i></button>
+        </div>
+        <div class="indicadores">
+            <span class="indicador material-symbols-outlined">radio_button_checked</span>
+            <span class="indicador material-symbols-outlined">radio_button_unchecked</span>
+            <span class="indicador material-symbols-outlined">radio_button_unchecked</span>
+        </div>
+    </section>
+
+    <section class="mas-vendidos">
+        <header>
+            <h5>Nuestro Productos Más Vendidos</h5>
+        </header>
+        <div class="productos">
+            <app-producto [productos]="productosFiltrados"></app-producto>
+        </div>
+    </section>
+</div>
